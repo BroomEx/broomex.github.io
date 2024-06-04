@@ -1,0 +1,12 @@
+## ISKM07 - Reflexe
+### 21.10.2022
+
+Říká se, že předsudky šetří čas, v tomto případě se ale ukázalo, že jsou také překně na prd a není od věci se na ně občas vybodnout. 
+
+Literatura, kultura a humanitní vědy,od tohoto přemětu jsem uřímě nevěl co čekat, aneb stále nečtu syllaby. Teoretickymi znalostmi literatury jsem byl do té doby naprosto nepolíbený, s kulturou to bylo o něco lepší a k humanitní vědám jsem měl odjakživa, řekněme, komplikaný vztah (ano, další wtf mého působení na FF), takže moje předpředmětové chápání obsahu bylo rovno nule. 
+
+Předmět se věnoval vztahu literatury a humatnitních věd a musím uznat, že většina přednášek byla, k mému překvapení, extrémně zajímavá. Předmět vedlo více vyučujících a během výkladu a občasných diskusí nejednou padly teze, které, které se mi zapsali do paměti, jako je například "vemte lidem boha a uvidíte, čeho jsou schopni", což s ohledem na mojí zálibu poslední doby, a to totiž četbačetbou reportážních knih ze zemí, kde to tak říkajc není úplne v olrajtu, silně zarezonovalo. 
+
+V rámci předmětu jsme museli vypracovat digitální kolekci na zvolené téma, které v našem případě bylo Erich Maria Remarque, což mě nasměrovalo k jeho vcelku neznámé knížce ***Cesta zpátky*** a hlavně mi velmi otevřelo oči, co se týče meziválečné literatury a prostředí, ve kterém vznikala. Přišlo mi až lehce bizardní, že Remarque v dobových rozhovorech neustále popisuje, že ho překvapil velký zájem o válku, která skončila vlastně teprve nedávno a zároveň již nikoho moc nezajímá to, co se dělo s aktéry po ní, viz. již zmíněná kniha ***Cesta zpátky***, která je oproti ***Na západní frontě klid*** z toku 1928 prakticky neznámá. Velmi ostrým kontextem tako budiž to, že o čtyři roky zpátky vydaná kniha Aldouse Huxleyho ***Překrásný nový svět*** byla naopak postavená na předobrazu "zlaté" mládeže v USA v třicátých letech. 
+
+Vyhledem k tomu, že tuto reflxi píši s docela velkým odstupem, musím říct, že asi nejsilnější momenty byly při zkoušce, kde jsem vcelku s úspěchem dokázal odprezentovat, že jednak nevím, co je esej a zejména, že jsem článek, na kterém se zakládala, vlastně nepochopil a také, že očividně nejsem schopen ani předat svoje hlavní myšlenky týkající se komparace různých antiutopií, které jsem prezentoval na již zmíněném ***Překrásném novém světě*** a románu ***1984*** od George Orwela. 
