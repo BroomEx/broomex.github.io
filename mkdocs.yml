@@ -2,12 +2,16 @@ site_name: KISK Portfolio - Pavel Dytrych
 docs_dir: md
 site_dir: docs
 nav:
+  - O mě: index.md
+  - Texty: texts.md
   - KISK?: about.md
-  - Texty: index.md
-  - O mě: contact.md
 
 theme:
   name: mkdocs
   locale: cs
   color_mode: light
   nav_style: light
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
