@@ -35,4 +35,5 @@ Každopádně jsem v té, orlojem odbíjené, vřavě dosáhl zenového klidu, 
 
 Zbývá jen doufat, nakonec můžu jen parafrázovat Charlese Bukowskiho a prohlásit, že ***člověk musí párkrát tu diplomku zvorat, než se to naučí doopravdy psát***.¨
 
-> Zdroják DP je je kdyžtak [tady.](https://github.com/BroomEx/DP-DWH)
+> Diplomová práce je dostupná [zde.](https://is.muni.cz/th/zs51g/?lang=cs;cop=2406321;id=297743)
+> Zdrojový kód DP je kdyžtak [zde.](https://github.com/BroomEx/DP-DWH)
