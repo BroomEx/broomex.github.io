@@ -34,6 +34,8 @@ Velkou část ledna a února jsem prožil v malebném prostředí okolo staromě
 Každopádně jsem v té, orlojem odbíjené, vřavě dosáhl zenového klidu, práci jsem odevzdal, ale zas to teda není žádné Nagano. Vedoucí je prý spokojen, spíš bych si vsadil, že je spokojen s tím, že už mě bude mít z krku. Klára Filipová, která to jako jediná četla, tvrdí, že to je normální průměrná diplomka, já si spíš myslím, že to ve skutečnosti nečetla a tímto, pro mě vlastně superlativem, hýří jen protože jsem ji uplatil knihou *Severočeský hnědouhelný revír ve fotografii* od Oty Nováka, jejíž vlastnictví považuje za splněný sen. 
 
 Zbývá jen doufat, nakonec můžu jen parafrázovat Charlese Bukowskiho a prohlásit, že ***člověk musí párkrát tu diplomku zvorat, než se to naučí doopravdy psát***.¨
+> Prezentace k DP je dotupná [zde.](https://docs.google.com/presentation/d/1jo6eJA85H1A9EuKHZCrIEnditPlh7z35rxH-lk0tBa8/edit#slide=id.g2e53d8ffbd6_0_472)
 
 > Diplomová práce je dostupná [zde.](https://is.muni.cz/th/zs51g/?lang=cs;cop=2406321;id=297743)
+
 > Zdrojový kód DP je kdyžtak [zde.](https://github.com/BroomEx/DP-DWH)
